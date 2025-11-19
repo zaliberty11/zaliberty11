@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaliberty11, aka Zak
 - 👀 I’m interested in Technology and Business
-- 🌱 I’m currently learning cybersecurity and data analysis
+- 🌱 My specific interest is Data Analysis and Emerging Technologies
 - 💞️ I’m looking to collaborate on various ideas
 - 📫 How to reach me zakirwan@gmail.com
 
